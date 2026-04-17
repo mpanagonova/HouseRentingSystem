@@ -73,3 +73,5 @@ namespace HouseRentingSystem.Tests.UnitTests
         }
     }
 }
+
+//CI trigger test
